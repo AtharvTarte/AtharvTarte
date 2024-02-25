@@ -50,13 +50,13 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=bytebard7&theme=midnight-purple&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharvTarte&theme=midnight-purple&hide_border=true">
 </details>
 <details>
   <summary>:zap: Github Streak</summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bytebard7&theme=midnight-purple&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvTarte&theme=midnight-purple&hide_border=true">
 </details>
 <details>
 <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebard7&theme=midnight-purple&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvTarte&theme=midnight-purple&hide_border=true">
 </details>
