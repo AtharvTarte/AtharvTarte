@@ -1,38 +1,62 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atharv
-==============================================================================================================================
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
+<hr>
 
-IT Undergrad @ Pune University | Aspiring DevOps Engineer
----------------------------------------------------------
+<h1 align="center"> Hi, I'm Atharv <img src="pikachu.gif" width="40"></h1>
 
-Java | Python | Oops | DSA | Linux
-
-* 🌍  I'm based in Pune , India
-* 🖥️  See my portfolio at [MyPortfolio](http://github.com/AtharvTarte)
-* ✉️  You can contact me at [athrvtrte@gmail.com](mailto:athrvtrte@gmail.com)
-* 🧠  I'm learning DevOps | Cloud
-* 🤝  I'm open to collaborating on Java | Python | DevOps
-* ⚡  I use arch btw
-
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+<a href="linkedin.com/in/atharvtarte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
+<!-- <a href=""><img src="https://img.shields.io/badge/-🖥️   %20Portfolio-grey?logo=portfolio&logoColor=white&style=flat&logoWidth=30"></a> -->
 </p>
 
+<img src="banner.png" width="100%">
 
-### Socials
+<i>I'm a Second Year IT branch student from India passionate about technology and cloud computing.</i>
 
-<p align="left"> <a href="https://discord.com/users/atharvtarte" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/AtharvTarte" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atharvtarte" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<i> •🚀 Currently working on enhancing my Cloud Computing skills <br>
+•🌱 Learning and exploring new technologies in the cloud space <br>
+•💡 Open to collaboration on exciting projects</i>
+<br/>
+<hr>
 
-### Badges
+<h1 align="center"> Tech Stack <img src="tools.gif" width="30">:</h1>
+<div display="flex" align="center" >
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=gold&style=flat">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/GitHub-313131?logo=github&logoColor=fff&style=flat"/>
+ <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+</div>
 
-<b>My GitHub Stats</b>
+<br>
+<hr>
 
-<a href="http://www.github.com/AtharvTarte"><img src="https://github-readme-stats.vercel.app/api?username=AtharvTarte&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="AtharvTarte's GitHub stats" /></a>
+<h1 align="center">Gaming <img src="games.gif" width="30">:</h1>
+<div display="flex" align="center">
+  <img src="https://img.shields.io/badge/Steam-313131?logo=steam&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?logo=epicgames&logoColor=fff&style=flat"/>
+  <img src="https://img.shields.io/badge/Valorant-313131?logo=valorant&logoColor=fff&style=flat" />
 
-<a href="https://github.com/AtharvTarte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvTarte&langs_count=10&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <img src="https://img.shields.io/badge/PUBG-313131?logo=pubg&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Counter--Strike-313131?logo=counterstrike&logoColor=fff&style=flat" />
+</div>
+<br>
+<hr>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AtharvTarte/java-dsa" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvTarte&repo=java-dsa&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/AtharvTarte/100-days-of-python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvTarte&repo=100-days-of-python&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=bytebard7&theme=midnight-purple&hide_border=true">
+</details>
+<details>
+  <summary>:zap: Github Streak</summary>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bytebard7&theme=midnight-purple&hide_border=true">
+</details>
+<details>
+<summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebard7&theme=midnight-purple&hide_border=true">
+</details>
