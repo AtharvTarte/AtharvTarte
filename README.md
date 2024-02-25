@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/GitHub-313131?logo=github&logoColor=fff&style=flat"/>
- <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white&style=flat"/>
 </div>
 
 <br>
