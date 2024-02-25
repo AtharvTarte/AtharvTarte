@@ -6,7 +6,7 @@
 <h1 align="center"> Hi, I'm Atharv <img src="pikachu.gif" width="40"></h1>
 
 <p align="center">
-<a href="linkedin.com/in/atharvtarte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
+<a href="https://www.linkedin.com/in/atharvtarte/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
 <!-- <a href=""><img src="https://img.shields.io/badge/-🖥️   %20Portfolio-grey?logo=portfolio&logoColor=white&style=flat&logoWidth=30"></a> -->
 </p>
 
